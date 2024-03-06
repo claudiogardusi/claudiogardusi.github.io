@@ -1,3 +1,2 @@
 # claudiogardusi.github.io
-Meu currículo online
-Iniciando o projeto para exibição de currículo!
+Meu currículo online - Projeto para exibição de currículo!
