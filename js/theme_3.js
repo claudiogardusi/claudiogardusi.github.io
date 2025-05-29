@@ -156,7 +156,7 @@ $(".owl-carousel").each(function (index) {
 		stagePadding: a.data('stagepadding'),
 		slideBy: a.data('slideby'),
 		lazyLoad: a.data('lazyload'),
-		navText:['<i class="fa fa-chevron-left"></i>', '<i class="fa fa-chevron-right"></i>'],
+		navText:['<i class="bi bi-chevron-left"></i>', '<i class="bi bi-chevron-right"></i>'],
 		animateOut: a.data('animateout'),
 		animateIn: a.data('animatein'),
 		video: a.data('video'),
